@@ -20,6 +20,9 @@
 | ![Details](screenshots/details.jpeg) | **Venue Details** - Rich information with image carousel |
 | ![Filters](screenshots/venue_filters.jpeg) | **Smart Filters** - Category-aware filtering system |
 | ![Nearby](screenshots/nearby_venues.jpeg) | **Nearby Discovery** - Location-based service finding |
+| ![Nearby](screenshots/favorite_page) | **Favorite Page** - Multi-Category favorites page with filtering |
+
+
 
 
 
