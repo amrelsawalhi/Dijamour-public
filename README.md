@@ -11,7 +11,6 @@
 
 ## 📸 Media Gallery
 
-| Screenshot | Description |
 |------------|-------------|
 | ![LandingPage](screenshots/landingpage.jpg) | ![Home](screenshots/venues.jpg) |
 | ![Photographers](screenshots/photographers.jpg) | ![Makeup](screenshots/makeup.jpg) |
