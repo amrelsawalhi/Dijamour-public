@@ -13,14 +13,13 @@
 
 | Screenshot | Description |
 |------------|-------------|
-| ![Home/Grid](screenshots/venues_grid.jpeg) | **Home Screen** - Venues list/grid with category switching |
-| ![Home/list](screenshots/venues_list.jpeg) | **Home Screen** - Venues list/grid with category switching |
-| ![Photographers](screenshots/photographers.jpeg) | **Photographers** - Professional photography services |
-| ![Makeup](screenshots/makeup.jpeg) | **Makeup Artists** - Beauty and styling services |
-| ![Details](screenshots/details.jpeg) | **Venue Details** - Rich information with image carousel |
-| ![Filters](screenshots/venue_filters.jpeg) | **Smart Filters** - Category-aware filtering system |
-| ![Nearby](screenshots/nearby_venues.jpeg) | **Nearby Discovery** - Location-based service finding |
-| ![Favorites](screenshots/favorite_page.jpeg) | **Favorite Page** - Multi-Category favorites page with filtering |
+| ![LandingPage](screenshots/landingpage.jpg) | **Landing Page** - Stylish Landing Page to choose the language |
+| ![Home](screenshots/venues.jpg) | **Home Screen** - Venues list/grid with category switching |
+| ![Photographers](screenshots/photographers.jpg) | **Photographers** - Professional photography services |
+| ![Makeup](screenshots/makeup.jpg) | **Makeup Artists** - Beauty and styling services |
+| ![Details](screenshots/packages.jpg) | **Venue Details** - Rich information with image carousel and packages |
+| ![Filters](screenshots/filters.jpg) | **Smart Filters** - Category-aware filtering system |
+| ![Nearby](screenshots/nearby.jpg) | **Nearby Discovery** - Location-based service finding |
 
 
 
