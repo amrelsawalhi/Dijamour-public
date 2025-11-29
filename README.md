@@ -14,7 +14,7 @@
 | Screenshot | Description |
 |------------|-------------|
 | ![LandingPage](screenshots/landingpage.jpg) | **Landing Page** - Stylish Landing Page to choose the language |
-| ![Home](screenshots/venues.jpg) | **Home Screen** - Venues list/grid with category switching |
+| ![Home](screenshots/venues.jpg) | ![Home](screenshots/venues.jpg) |
 | ![Photographers](screenshots/photographers.jpg) | **Photographers** - Professional photography services |
 | ![Makeup](screenshots/makeup.jpg) | **Makeup Artists** - Beauty and styling services |
 | ![Details](screenshots/packages.jpg) | **Venue Details** - Rich information with image carousel and packages |
