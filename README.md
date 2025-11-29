@@ -16,6 +16,8 @@
 | ![Photographers](screenshots/photographers.jpg) | ![Makeup](screenshots/makeup.jpg) |
 | ![Details](screenshots/packages.jpg) | ![Filters](screenshots/filters.jpg) |
 | ![Nearby](screenshots/nearby.jpg) | ![Inquiry](screenshots/inquiry.jpg) |
+| ![BudgetCalculator](screenshots/budgetcalculator.jpg) |  |
+
 
 
 
