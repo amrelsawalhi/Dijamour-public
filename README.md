@@ -13,13 +13,10 @@
 
 | Screenshot | Description |
 |------------|-------------|
-| ![LandingPage](screenshots/landingpage.jpg) | **Landing Page** - Stylish Landing Page to choose the language |
-| ![Home](screenshots/venues.jpg) | ![Home](screenshots/venues.jpg) |
-| ![Photographers](screenshots/photographers.jpg) | **Photographers** - Professional photography services |
-| ![Makeup](screenshots/makeup.jpg) | **Makeup Artists** - Beauty and styling services |
-| ![Details](screenshots/packages.jpg) | **Venue Details** - Rich information with image carousel and packages |
-| ![Filters](screenshots/filters.jpg) | **Smart Filters** - Category-aware filtering system |
-| ![Nearby](screenshots/nearby.jpg) | **Nearby Discovery** - Location-based service finding |
+| ![LandingPage](screenshots/landingpage.jpg) | ![Home](screenshots/venues.jpg) |
+| ![Photographers](screenshots/photographers.jpg) | ![Makeup](screenshots/makeup.jpg) |
+| ![Details](screenshots/packages.jpg) | ![Filters](screenshots/filters.jpg) |
+| ![Nearby](screenshots/nearby.jpg) | ![Inquiry](screenshots/inquiry.jpg) |
 
 
 
